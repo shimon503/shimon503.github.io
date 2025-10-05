@@ -1,4 +1,4 @@
-#  name:shimon genach
+#  shimon genach
 ## my skills
 
 |language/field|level|other|
